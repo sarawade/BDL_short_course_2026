@@ -25,7 +25,7 @@ On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
 There will be a Coffee break (20 min).
 
 ## Hands-on Practical
-Materials for the practical are contained in the [practical folder](https://github.com/sarawade/BDL_short_course_2026/edit/main/README.md#:~:text=practical). 
+Materials for the practical are contained in the ``practical`` folder. 
 We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
 `matplotlib`, `numpy`, `sklearn`).
 
