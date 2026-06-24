@@ -1,12 +1,10 @@
 # Bayesian Deep Learning: Short Course at ISBA 2026
 Material for the short course on Bayesian Deep Learning at the [ISBA World Meeting 2026](https://isba2026.github.io), held in Nagoya, Japan, June 28 - July 3, 2026.
 
-The course will introduce the foundational concepts underlying Bayesian neural networks, covering model formulations, prior choices, and 
-their impact on learning and generalization. We will then discuss the main approximate inference strategies used in practice, 
-including variational inference, Monte Carlo methods, and modern scalable approximations. The course is intended for statisticians with a background in 
-Bayesian methods but limited exposure to deep learning, as well as machine learning practitioners familiar with neural networks who wish to better 
-understand Bayesian principles. The course will conclude with an overview of applications, open research challenges, and available software tools for 
-Bayesian deep learning.  
+The course is intended for statisticians with a background in Bayesian methods but limited exposure to deep learning, as well as machine learning practitioners familiar with neural networks who wish to better 
+understand Bayesian principles. 
+The course provides an introduction to Bayesian neural networks and, more broadly, to Bayesian deep learning. We begin by motivating the Bayesian approach to neural networks and reviewing the main computational strategies for posterior approximation, including variational inference, Monte Carlo methods, and scalable Bayesian algorithms. We then discuss the role of prior distributions, issues of symmetry and non-identifiability, the use of marginal likelihood for model comparison and selection, and the implications of  singular learning theory for modern deep learning models. The course will then cover a range of applications, open research challenges, and available software tools for Bayesian deep learning.  
+Finally, participants will learn in a Hands-on Practical Session how to build and fit Bayesian neural networks in NumPyro, and compare MAP, variational inference, and MCMC approaches. We will also explore the impact of architectural and prior choices on predictive uncertainty and posterior predictive distributions.
 
 Presented by: [Julyan Arbel](https://www.julyanarbel.com), [Sara Wade](https://sarawade.owlstown.net), [Vincent Fortuin](https://fortuin.github.io).
 
@@ -14,28 +12,21 @@ On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
 
 ## Course Outline:
 
-**Introduction to BDL**
-- Introduction
-- Posterior Computation
-- Priors
-- Symmetries and Identifiability
+1. Introduction and Motivation
+2. Posterior Computations
+3. Priors
+4. Symmetries and Identifiability
+5. Marginal Likelihood
+6. Singular Learning Theory
+7. Applications
+8. References and Outlook
+9. Hands-on Practical
 
- Coffee break (20 min)
+There will be a Coffee break (20 min).
 
- **Applications**
-
- **Hands-on Practical:**
-Materials for the practical are contained in the [practical folder](https://github.com/sarawade/BDL_short_course_2026/edit/main/README.md#:~:text=practical) 
+## Hands-on Practical
+Materials for the practical are contained in the [practical folder](https://github.com/sarawade/BDL_short_course_2026/edit/main/README.md#:~:text=practical). 
 We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
 `matplotlib`, `numpy`, `sklearn`).
 
-Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and this case, we recommed using other tools, such as [colab](https://colab.research.google.com).
-
-Specific versions used in the compliation above:
-- matplotlib==3.10.3 # nice plots
-- seaborn==0.13.2 # nice plots
-- numpy==2.4.3 # Powerful n-dimensional arrays and numerical computing tools
-- pandas==2.3.0 # data analysis and manipulation tool
-- numpyro==0.21.0 # probabilistic programming
-- jax==0.10.2 # differentiate, compile, and transform Numpy code
-- scikit-learn==1.7.0 # set of python modules for machine learning and data mining
+Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and in this case, we recommend using other tools, such as [colab](https://colab.research.google.com).
