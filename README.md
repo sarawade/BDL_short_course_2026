@@ -30,3 +30,12 @@ We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working loc
 `matplotlib`, `numpy`, `sklearn`).
 
 Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and this case, we recommed using other tools, such as [colab](https://colab.research.google.com).
+
+Specific versions used in the compliation above:
+matplotlib==3.10.3 # nice plots
+seaborn==0.13.2 # nice plots
+numpy==2.4.3 # Powerful n-dimensional arrays and numerical computing tools
+pandas==2.3.0 # data analysis and manipulation tool
+numpyro==0.21.0 # probabilistic programming
+jax==0.10.2 # differentiate, compile, and transform Numpy code
+scikit-learn==1.7.0 # set of python modules for machine learning and data mining
