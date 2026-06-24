@@ -24,5 +24,9 @@ On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
 
  **Applications**
 
- **Hands-on Practical**
+ **Hands-on Practical:**
 Materials for the practical are contained in the [practical folder](https://github.com/sarawade/BDL_short_course_2026/edit/main/README.md#:~:text=practical) 
+We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
+`matplotlib`, `numpy`, `sklearn`).
+
+Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and this case, we recommed using other tools, such as [colab](https://colab.research.google.com).
