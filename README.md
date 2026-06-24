@@ -25,3 +25,4 @@ On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
  **Applications**
 
  **Hands-on Practical**
+Materials for the practical are contained in the [practical folder](https://github.com/sarawade/BDL_short_course_2026/edit/main/README.md#:~:text=practical) 
