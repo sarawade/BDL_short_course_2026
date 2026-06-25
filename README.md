@@ -29,4 +29,9 @@ Materials for the practical are contained in the ``practical`` folder.
 We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
 `matplotlib`, `numpy`, `sklearn`).
 
-Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and in this case, we recommend using other tools, such as [colab](https://colab.research.google.com).
+Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and in this case, we recommend using other tools, such as [colab](https://colab.research.google.com)).
+
+## References
+- Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, and Vincent Fortuin. A primer on Bayesian neural networks: review and debates. Statistical Science, 41(2):316--353, 2026 [link](https://projecteuclid.org/journals/statistical-science/volume-41/issue-2/A-Primer-on-Bayesian-Neural-Networks-Review-and-Debates/10.1214/24-STS969.short).
+- Theodore Papamarkou, Maria Skoularidou, Konstantina Palla, Laurence Aitchison, Julyan Arbel, David Dunson, Maurizio Filippone, Vincent Fortuin, Philipp Hennig, José Miguel Hernández-Lobato, Aliaksandr Hubin, Alexander Immer, Theofanis Karaletsos, Mohammad Emtiyaz Khan, Agustinus Kristiadi, Yingzhen Li, Stephan Mandt, Christopher Nemeth, Michael A Osborne, Tim G. J. Rudner, David Rügamer, Yee Whye Teh, Max Welling, Andrew Gordon Wilson, and Ruqi Zhang. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [link](https://proceedings.mlr.press/v235/papamarkou24b.html).
+- Theodore Papamarkou et al. Bayesian deep learning textbook. Expected out on arXiv by the end of the year (link will be posted here, stay tuned!)
