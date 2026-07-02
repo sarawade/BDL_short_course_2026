@@ -34,5 +34,5 @@ Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/s
 ## References
 - J. Arbel, K. Pitas, M. Vladimirova, and V. Fortuin. A primer on Bayesian neural networks: review and debates. Statistical Science, 41(2):316--353, 2026 [[link]](https://projecteuclid.org/journals/statistical-science/volume-41/issue-2/A-Primer-on-Bayesian-Neural-Networks-Review-and-Debates/10.1214/24-STS969.short).
 - T. Papamarkou et al. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [[link]](https://proceedings.mlr.press/v235/papamarkou24b.html).
-- T. Papamarkou et al. Bayesian deep learning textbook. Expected out on arXiv by the end of the year (link will be posted here, stay tuned!)
+- T. Papamarkou et al. Bayesian deep learning textbook. Expected out on arXiv by Sept 2026 (link will be posted here, stay tuned!)
 - N. Polson and V. Sokolov. Bayes, AI and Deep Learning, 2026 [[link]](https://vsokolov.org/html/_book/).
