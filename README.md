@@ -22,7 +22,11 @@ On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
 8. References and Outlook
 9. Hands-on Practical
 
-There will be a Coffee break (20 min).
+There will be a coffee break (20 min).
+
+The [slides](https://nbviewer.org/github/sarawade/BDL_short_course_2026/blob/main/slides/BDL-short-course.pdf) are available to view or download in the ``slides`` folder.
+
+Videos should be posted by the end of July.
 
 ## Hands-on Practical
 Materials for the practical are contained in the ``practical`` folder. 
