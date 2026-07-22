@@ -10,27 +10,28 @@ Presented by: [Julyan Arbel](https://www.julyanarbel.com), [Sara Wade](https://s
 
 On behalf of the [BayesAI Section](https://bayesai-isba.github.io) of ISBA.
 
-## Course Outline:
+## Outline
 
 1. Introduction and Motivation
 2. Posterior Computations
 3. Priors
 4. Symmetries and Identifiability
-5. Marginal Likelihood
-6. Singular Learning Theory
+5. Singular Learning Theory
+6. Marginal Likelihood
 7. Applications
-8. References and Outlook
-9. Hands-on Practical
+8. Hands-on Practical
 
-There will be a coffee break (20 min).
-
+## Slides
 The [slides](https://nbviewer.org/github/sarawade/BDL_short_course_2026/blob/main/slides/BDL-short-course.pdf) are available to view or download in the ``slides`` folder.
 
-Videos will be posted, around the end of July.
+## Videos
+- [Parts 1 to 5 (Julyan)](https://youtu.be/9qRj8cBHI1w)
+- [Parts 6 and 7 (Vincent)](https://youtu.be/5SC0ofJ9QdM)
+- [Parts 7 and 8 (Sara)](https://youtu.be/GH0z19cBuZY)
 
 ## Hands-on Practical
 Materials for the practical are contained in the ``practical`` folder. 
-We will use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
+We use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally, please install the relevant libraries (e.g. `numpyro`, `jax`, `pandas`, `seaborn`, 
 `matplotlib`, `numpy`, `sklearn`).
 
 Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and in this case, we recommend using other tools, such as [colab](https://colab.research.google.com)).
@@ -38,5 +39,5 @@ Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/s
 ## References
 - J. Arbel, K. Pitas, M. Vladimirova, and V. Fortuin. A primer on Bayesian neural networks: review and debates. Statistical Science, 41(2):316--353, 2026 [[link]](https://projecteuclid.org/journals/statistical-science/volume-41/issue-2/A-Primer-on-Bayesian-Neural-Networks-Review-and-Debates/10.1214/24-STS969.short).
 - T. Papamarkou et al. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [[link]](https://proceedings.mlr.press/v235/papamarkou24b.html).
-- T. Papamarkou et al. Bayesian deep learning textbook. Expected out on arXiv by Sept 2026 (link will be posted here, stay tuned!)
+- T. Papamarkou et al. Bayesian deep learning textbook. CRC Press. Expected out on arXiv by Sept 2026 (link will be posted here, stay tuned!)
 - N. Polson and V. Sokolov. Bayes, AI and Deep Learning, 2026 [[link]](https://vsokolov.org/html/_book/).
