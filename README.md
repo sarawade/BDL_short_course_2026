@@ -1,5 +1,5 @@
 # Bayesian Deep Learning: Short Course at ISBA 2026
-Material for the short course on Bayesian Deep Learning at the [ISBA World Meeting 2026](https://isba2026.github.io), held in Nagoya, Japan, June 28 - July 3, 2026. Partly based on the Bayesian deep learning textbook [[1]](#ref-1).
+Material for the short course on Bayesian Deep Learning at the [ISBA World Meeting 2026](https://isba2026.github.io), held in Nagoya, Japan, June 28 - July 3, 2026. Partly based on the [[Bayesian deep learning]](https://doi.org/10.5281/zenodo.22114549) textbook [[1]](#ref-1).
 
 The course is intended for statisticians with a background in Bayesian methods but limited exposure to deep learning, as well as machine learning practitioners familiar with neural networks who wish to better 
 understand Bayesian principles. 
