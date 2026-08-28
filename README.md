@@ -1,5 +1,5 @@
 # Bayesian Deep Learning: Short Course at ISBA 2026
-Material for the short course on Bayesian Deep Learning at the [ISBA World Meeting 2026](https://isba2026.github.io), held in Nagoya, Japan, June 28 - July 3, 2026.
+Material for the short course on Bayesian Deep Learning at the [ISBA World Meeting 2026](https://isba2026.github.io), held in Nagoya, Japan, June 28 - July 3, 2026. Partly based on the Bayesian deep learning textbook [[1]](#ref-1).
 
 The course is intended for statisticians with a background in Bayesian methods but limited exposure to deep learning, as well as machine learning practitioners familiar with neural networks who wish to better 
 understand Bayesian principles. 
@@ -37,7 +37,14 @@ We use [NumPyro](https://num.pyro.ai/en/latest/index.html#). If working locally,
 Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/sarawade/BDL_short_course_2026/blob/main/practical/bnn_demo_key.html) for anyone running into installation issues (and in this case, we recommend using other tools, such as [colab](https://colab.research.google.com)).
 
 ## References
-- J. Arbel, K. Pitas, M. Vladimirova, and V. Fortuin. A primer on Bayesian neural networks: review and debates. Statistical Science, 41(2):316--353, 2026 [[link]](https://projecteuclid.org/journals/statistical-science/volume-41/issue-2/A-Primer-on-Bayesian-Neural-Networks-Review-and-Debates/10.1214/24-STS969.short).
-- T. Papamarkou et al. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [[link]](https://proceedings.mlr.press/v235/papamarkou24b.html).
-- T. Papamarkou et al. Bayesian deep learning textbook. CRC Press. Expected out on arXiv by Sept 2026 (link will be posted here, stay tuned!)
-- N. Polson and V. Sokolov. Bayes, AI and Deep Learning, 2026 [[link]](https://vsokolov.org/html/_book/).
+<a id="ref-1"></a>
+[1] Agostinelli et al. Bayesian deep learning textbook. CRC Press (in press). [[link]](https://doi.org/10.5281/zenodo.22114549).
+
+<a id="ref-2"></a>
+[2] J. Arbel, K. Pitas, M. Vladimirova, and V. Fortuin. A primer on Bayesian neural networks: review and debates. Statistical Science, 41(2):316--353, 2026 [[link]](https://projecteuclid.org/journals/statistical-science/volume-41/issue-2/A-Primer-on-Bayesian-Neural-Networks-Review-and-Debates/10.1214/24-STS969.short).
+
+<a id="ref-3"></a>
+[3] T. Papamarkou et al. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [[link]](https://proceedings.mlr.press/v235/papamarkou24b.html).
+
+<a id="ref-4"></a>
+[4] N. Polson and V. Sokolov. Bayes, AI and Deep Learning, 2026 [[link]](https://vsokolov.org/html/_book/).
