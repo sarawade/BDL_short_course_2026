@@ -45,6 +45,3 @@ Here is a [compiled version](https://htmlpreview.github.io/?https://github.com/s
 
 <a id="ref-3"></a>
 [3] T. Papamarkou et al. Position: Bayesian deep learning is needed in the age of large-scale AI. International Conference on Machine Learning, 2024 [[link]](https://proceedings.mlr.press/v235/papamarkou24b.html).
-
-<a id="ref-4"></a>
-[4] N. Polson and V. Sokolov. Bayes, AI and Deep Learning, 2026 [[link]](https://vsokolov.org/html/_book/).
